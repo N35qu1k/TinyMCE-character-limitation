@@ -1,4 +1,7 @@
 # TinyMCE-character-limitation
+
+![Demo gif](http://s8.postimg.org/umeht2s3p/demo.gif)
+
 This TinyMCE plugin will set a limit character with a colored countdown. Submit button is disabled if the limitation is reached.
 
 ## How to install
